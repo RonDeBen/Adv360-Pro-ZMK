@@ -90,11 +90,11 @@
 
         layer_Colemak_Mod_DH {
             bindings = <
-      &kp EQUAL  &kp NUMBER_1    &kp N2          &kp N3           &kp N4  &kp N5                   &tog 1                                                                                &none  &kp N6        &kp N7          &kp N8            &kp N9             &kp N0        &kp MINUS
-        &kp TAB         &kp Q     &kp W           &kp F            &kp P   &kp B                    &none                                                                                &to 0   &kp J         &kp L           &kp U             &kp Y           &kp SEMI    &kp BACKSLASH
-        &kp ESC         &kp A     &kp R           &kp S            &kp T   &kp G                    &none  &kp LEFT_CONTROL  &kp LEFT_ALT  &trans  &trans       &kp LGUI  &kp RCTRL      &to 4   &kp M         &kp N           &kp E             &kp I              &kp O            &none
- &kp LEFT_SHIFT         &kp Z     &kp X           &kp C            &kp D   &kp V                   &trans            &trans      &kp HOME  &trans  &trans    &kp PAGE_UP     &trans     &trans   &kp K         &kp H       &kp COMMA        &kp PERIOD          &kp SLASH  &kp RIGHT_SHIFT
-          &mo 2     &kp GRAVE  &kp CAPS  &kp LEFT_ARROW  &kp RIGHT_ARROW                    &kp BACKSPACE        &kp DELETE       &kp END                  &kp PAGE_DOWN  &kp ENTER  &kp SPACE          &kp UP_ARROW  &kp DOWN_ARROW  &kp LEFT_BRACKET  &kp RIGHT_BRACKET            &mo 2
+      &kp EQUAL  &kp NUMBER_1    &kp N2          &kp N3           &kp N4  &kp N5                   &tog 1                                                                                  &mo  &kp N6        &kp N7          &kp N8            &kp N9             &kp N0         &kp MINUS
+        &kp TAB         &kp Q     &kp W           &kp F            &kp P   &kp B                    &none                                                                                &to 0   &kp J         &kp L           &kp U             &kp Y           &kp SEMI     &kp BACKSLASH
+        &kp ESC         &kp A     &kp R           &kp S            &kp T   &kp G                    &none  &kp LEFT_CONTROL  &kp LEFT_ALT  &trans  &trans       &kp LGUI  &kp RCTRL      &to 4   &kp M         &kp N           &kp E             &kp I              &kp O  &kp SINGLE_QUOTE
+ &kp LEFT_SHIFT         &kp Z     &kp X           &kp C            &kp D   &kp V                   &trans            &trans      &kp HOME  &trans  &trans    &kp PAGE_UP     &trans     &trans   &kp K         &kp H       &kp COMMA        &kp PERIOD          &kp SLASH   &kp RIGHT_SHIFT
+          &mo 2     &kp GRAVE  &kp CAPS  &kp LEFT_ARROW  &kp RIGHT_ARROW                    &kp BACKSPACE        &kp DELETE       &kp END                  &kp PAGE_DOWN  &kp ENTER  &kp SPACE          &kp UP_ARROW  &kp DOWN_ARROW  &kp LEFT_BRACKET  &kp RIGHT_BRACKET             &mo 2
             >;
         };
 
